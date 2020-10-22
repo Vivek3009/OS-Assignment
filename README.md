@@ -8,17 +8,17 @@ Semester : 5th
 
 Assignment-1
 
-   fibonacci.c
+   1. fibonacci.c
 
-   fork_implementation.c
+   2. fork_implementation.c
 
 
 Assignment-2
 
 
-   sort.c
+   1. sort.c
 
-   binaryTree.c
+   2. binaryTree.c
 
 Assignment-3
 
