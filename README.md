@@ -23,68 +23,68 @@ Assignment-2
 Assignment-3
 
 
-   orphan_process.c
+   1. orphan_process.c
 
-   zombie_process.c
+   2. zombie_process.c
 
-   multiprocess.c
+   3. multiprocess.c
 
 Assignment-4
 
 
-   Thread_and_Fork().c
+   1. Thread_and_Fork().c
 
 Assignment-5
 
 
-   fibonacci_using_thread.c
+   1. fibonacci_using_thread.c
 
-   variables_in_thread.c
+   2. variables_in_thread.c
 
 Assignment-6
 
 
-   binary_semaphore.c , counting_semaphore.c
+   1. binary_semaphore.c , counting_semaphore.c
 
-   peterson.c
+   2. peterson.c
 
-   race_condition.c
+   3. race_condition.c
 
 Assignment-7
 
 
-   Producerconsumer.c
+   1. Producerconsumer.c
 
-   Readerwriter.c
+   2. Readerwriter.c
 
 Assignment-8
 
 
-   DiningPhilospher.c
+   1. DiningPhilospher.c
 
 Assignment-9
 
 
-   Banker'sAlgorithm.cpp
+   1. Banker'sAlgorithm.cpp
 
 Assignment-10
 
 
-   FCFS.c
+   1. FCFS.c
 
-   ShortestJobFirstScheduling.c
+   2. ShortestJobFirstScheduling.c
 
-   ShortestJobFirstScheduling_Preemptive.c
+   3. ShortestJobFirstScheduling_Preemptive.c
  
-   Priority.c
+   4. Priority.c
 
-   RoundRobin.c
+   5. RoundRobin.c
 
 Assignment-11
 
 
-   SSTF.c
+   1. SSTF.c
 
-   scan.c
+   2. scan.c
 
-   c_scan_scheduling.c
+   3. c_scan_scheduling.c
